@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\gorselprogramlama1\ÜçgenAlanıBulma\bin\Debug\ÜçgenAlanıBulma.exe.config
+C:\Users\user\Desktop\gorselprogramlama1\ÜçgenAlanıBulma\bin\Debug\ÜçgenAlanıBulma.exe
+C:\Users\user\Desktop\gorselprogramlama1\ÜçgenAlanıBulma\bin\Debug\ÜçgenAlanıBulma.pdb
+C:\Users\user\Desktop\gorselprogramlama1\ÜçgenAlanıBulma\obj\Debug\ÜçgenAlanıBulma.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\gorselprogramlama1\ÜçgenAlanıBulma\obj\Debug\ÜçgenAlanıBulma.Form1.resources
+C:\Users\user\Desktop\gorselprogramlama1\ÜçgenAlanıBulma\obj\Debug\ÜçgenAlanıBulma.Properties.Resources.resources
+C:\Users\user\Desktop\gorselprogramlama1\ÜçgenAlanıBulma\obj\Debug\ÜçgenAlanıBulma.csproj.GenerateResource.cache
+C:\Users\user\Desktop\gorselprogramlama1\ÜçgenAlanıBulma\obj\Debug\ÜçgenAlanıBulma.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gorselprogramlama1\ÜçgenAlanıBulma\obj\Debug\ÜçgenAlanıBulma.exe
+C:\Users\user\Desktop\gorselprogramlama1\ÜçgenAlanıBulma\obj\Debug\ÜçgenAlanıBulma.pdb
